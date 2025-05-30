@@ -1,7 +1,7 @@
 <!-- HOME / INTRODUCTION -->
 <h1 align="center">Hi, I'm Chris Babu 👋</h1>
 <h3 align="center">CSE Final Year Student | Aspiring AI/ML Engineer</h3>
-<p align="center">I want to enjoy this as much as I can 🌱</p>
+<p align="center">I want to enjoy this life as much as I can 🌱</p>
 
 <p align="center">
   <picture>
@@ -51,7 +51,7 @@ Here are a few highlights:
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chrisbabu9/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chris-babu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/chrisbabu9)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:chrisbabu9@gmail.com)
 
