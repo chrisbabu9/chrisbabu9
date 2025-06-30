@@ -22,7 +22,6 @@
 
 ## 🚀 Projects
 Here are a few highlights:
-- **🧬 AI-Powered CRISPR-Cas13a System** – Targeted RNA editing using ML
 - **📱 College Connect App** – Smart college app for student coordination
 - **🌐 Personal Portfolio Website** – Minimalist tech-themed site in JS
 
