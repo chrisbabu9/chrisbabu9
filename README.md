@@ -15,7 +15,6 @@
 ## 🧑‍💻 About Me
 - 🎓 Final Year B.Tech in Computer Science and Engineering
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 🔭 Currently working on a project involving **CRISPR-Cas13a and AI for neurodegenerative diseases**
 - 🎸 Learning guitar | 🏐 Volleyball player | 📽️ Content creation enthusiast
 
 ---
